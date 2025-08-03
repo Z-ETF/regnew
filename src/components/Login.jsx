@@ -6,8 +6,8 @@ export const Login = () => {
         <div>
           <div className="text-center py-4">
             <h1 className="text-7xl font-semibold">Login</h1>
-            <p className="font-light text-lg">
-              Please login to access our services
+            <p className="font-light text-lg mt-4">
+            Empowering innovation through collaboration
             </p>
           </div>
           <form>

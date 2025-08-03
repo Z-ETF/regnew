@@ -6,8 +6,8 @@ export const Signup = () => {
     <div>
       <div className="text-center py-4">
         <h1 className="text-7xl font-semibold">Welcome</h1>
-        <p className="font-light text-lg">
-          We are glad to see you back with us
+        <p className="font-light text-lg mt-4">
+        Join us in shaping real-world innovation
         </p>
       </div>
       <form>
